@@ -2,7 +2,7 @@
 1. Fork https://github.com/OneMob/challenge into your GitHub account
 2. Pull and checkout a new branch 'task'
 3. Implement scenarios below
-4. Create PR with the changes against the master branch in **your forked repo (not in https://github.com/OneMob/challenge, it should be https://github.com/\<username\>/challenge !!!)** and send us a link. 
+4. Create PR with the changes against the master branch in **your forked repo (not in https://github.com/OneMob/challenge, it should be https://github.com/username/challenge !!!)** and send us a link. 
 
 Scenario 1:  
 Given I am on the home page  
@@ -24,9 +24,6 @@ Then It hides the row
 - Use this react app: app/javascript/app
 - Database is not required
 - Any additional improvements to show your skills are welcome
-  Evaluation criteria:
-- Clean, readable code
-- Following common best practices
 
 **Evaluation criteria:**
 - Clean, readable code

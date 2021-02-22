@@ -1,5 +1,8 @@
-require("@rails/ujs").start()
-require("@rails/activestorage").start()
-require("channels")
+import Rails from "@rails/ujs"
+import * as ActiveStorage from "@rails/activestorage"
+import "channels"
 
-import 'app';
+Rails.start()
+ActiveStorage.start()
+
+import "app";

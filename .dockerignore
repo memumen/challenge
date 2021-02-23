@@ -14,3 +14,5 @@ tmp
 .rubocop.yml
 node_modules
 .browserslistrc
+storage
+app/javascript/**/__snapshots__

@@ -1,0 +1,13 @@
+require:
+  - rubocop-performance
+  - rubocop-rails
+
+Style/Documentation:
+  Enabled: false
+
+AllCops:
+  Exclude:
+    - 'db/**/*'
+    - 'node_modules/**/*'
+    - 'bin/**/*'
+    - 'spec/**/*'

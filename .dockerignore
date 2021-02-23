@@ -1,0 +1,18 @@
+.git
+.gitignore
+.DS_Store
+.AppleDouble
+._*
+.Trashes
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+log
+tmp
+.ruby-version
+.rubocop.yml
+node_modules
+.browserslistrc
+storage
+app/javascript/**/__snapshots__
